@@ -97,7 +97,7 @@ Trong trường hợp lỗi khác, server sẽ trả về lỗi trong trường 
 
 ## Chi tiết các API
 
-Mặc định API sẽ chạy ở địa chỉ [http://localhost:4000](http://localhost:4000), các bạn nào muốn đổi port thì vào file `.env` để thay đổi port
+Mặc định API sẽ chạy ở địa chỉ [http://localhost:4000](http://localhost:4000), các  nào muốn đổi port thì vào file `.env` để thay đổi port
 
 Với các API POST, PUT thông thường thì body gửi lên phải là JSON, và phải có header `Content-Type: application/json`.
 
